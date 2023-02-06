@@ -6,7 +6,7 @@ Este estudo de caso concentra-se nos requisitos de um sistema denominado _Mentca
 
 Este sistema é separado de um sistema de registros de pacientes mais geral, visto que, informações mais específicas devem ser mantidas. Além disso, o sistema deve ser configurado para gerar documentos e relatórios de diferentes tipos, visando garantir que as leis pertinentes à saúde mental sejam respeitadas pela equipe de está atendendo os pacientes.
 
-Este é um sistema crítico de segurança, pois uma falha pode levar a decisões que comprometam a segurança do paciente ou da equipe médica. Existem também considerações importantes de segurança e privacidade que devem ser levadas em consideração no sistema Mentcare.
+Este é um sistema crítico de segurança, pois uma falha pode levar a decisões que comprometam a segurança do paciente ou da equipe médica. Existem também considerações importantes de segurança e privacidade que devem ser levadas em consideração no sistema Mentcare. Por exemplo, o vazamento de dados pode expor pacientes, como ocorreu com a [rede finlandesa de terapia Vastaamo](https://www.bbc.com/portuguese/geral-54698957).
 
 **Tarefa:** Reúna-se com o seu grupo para ler e compreender as funcionalidades e demais características do sistema, que são descritas nas próximas seções.
 
@@ -16,7 +16,7 @@ Este é um sistema crítico de segurança, pois uma falha pode levar a decisões
 
 * **Monitoramento do paciente:** O sistema monitora regularmente os registros dos tratamentos dos pacientes, emitindo alertas caso sejam detectados possíveis problemas. Por exemplo, se um paciente não foi ao médico por algum tempo, um aviso pode ser emitido. Um dos elementos mais importantes do sistema de monitoramento é acompanhar os pacientes que foram submetidos a um tratamento involuntário (isto é, detidos em um hospital sem o seu consentimento). O sistema deve gerenciar os pacientes que foram detidos e garantir que todos os processos legais necessários sejam seguidos e documentados no momento certo.
 
-* **Emissão de relatórios:** O sistema gera relatórios gerenciais mensais mostrando o número de pacientes atendidos em cada clínica, o número de pacientes que entraram e saíram do sistema de atendimento, o número de pacientes internados, os medicamentos prescritos e seus custos, etc.
+* **Emissão de relatórios:** O sistema gera relatórios gerenciais mensais, mostrando o número de pacientes atendidos em cada clínica, o número de pacientes que entraram e saíram do sistema de atendimento, o número de pacientes internados, os medicamentos prescritos e seus custos, etc.
 
 ## Usuários:
 
@@ -48,26 +48,26 @@ Quatro tipos de usuários podem utilizar o sistema _Mentcare_:
 
 > O tempo que o sistema pode permanecer fora do ar no expediente normal não deve ultrapassar 5 segundos em qualquer dia.
 
-**Requisitos organizacionais:** Referem-se às políticas e restrições da organização, empresa, ou clientes. Por exemplo, requisitos relacionados com processos, ambiente operacional, etc. Por exemplo:
+**Requisitos organizacionais:** Referem-se às políticas e restrições da organização, empresa, ou clientes, como requisitos relacionados com processos, ambiente operacional, etc. Por exemplo:
 
 > Os usuários do sistema Mantcare devem se identificar usando o cartão de identificação de autoridade de saúde.
 
-**Requisitos externos:** Referem-se aos requisitos derivados de fatores externos e processos, como por exemplo, requisitos relacionados com leis que o sistema deve respeitar. Exemplo:
+**Requisitos externos:** Referem-se aos requisitos derivados de fatores externos e processos, como requisitos relacionados com leis que o sistema deve respeitar. Exemplo:
 
 > O sistema deve implementar providências para privacidade do paciente, conforme estabelecido em HStan-0302006-priv.
 
-A Figura abaixo mostra a organização dos requisitos não funcionais, conforme discutido por  Ian Sommerville em seu livro:
+A Figura abaixo mostra a organização dos requisitos não-funcionais, conforme discutido por  Ian Sommerville em seu livro:
 
 <img src="imagens/requisitos_nao_funcionais_categorias.png"  width="800"/>
 </br>
 
-Normalmente, utilizamos métricas para especificar requisitos não funcionais. Dessa forma, evitamos requisitos vagos e genéricos. Por exemplo, em vez de *"o sistema deve ter alta disponibilidade"*, podemos utilizar *"o sistema deve ter 99% de disponibilidade"*.
+Normalmente, utilizamos métricas para especificar requisitos não-funcionais. Dessa forma, evitamos requisitos vagos e genéricos. Por exemplo, em vez de *"o sistema deve ter alta disponibilidade"*, podemos utilizar *"o sistema deve ter 99% de disponibilidade"*.
 
 Os requisitos não-funcionais interagem com outros requisitos. Além disso, é difícil traduzi-los em requisitos mensuráveis. O custo para verificá-los pode ser elevado também.
 
 Sommerville faz um comentário importante sobre o levantamento de requisitos não-funcionais:
 
-> "Os requisitos não-funcionais são mais críticos do que os requisitos funcionais individuais (...) **Descumprir um requisito não-funcional pode significar a inutilização total do sistema.** Por exemplo, se um sistema de aeronave não satisfazer seus requisitos de confiabilidade, este não será certificado como seguro para operação (...).
+> "Os requisitos não-funcionais são mais críticos do que os requisitos funcionais individuais (...) **Descumprir um requisito não-funcional pode significar a inutilização total do sistema.** Por exemplo, se um sistema de aeronave não satisfazer seus requisitos de confiabilidade, este não será certificado como seguro para operação (...). 
 
 Além disso, o autor faz uma observação importante sobre o impacto na arquitetura geral do sistema:
 
@@ -81,7 +81,7 @@ Você foi contratado para desenvolver o sistema Mentcare para uma rede de clíni
 
 * Permitir que indivíduos acessem seus registros pessoais.
 
-* Garantir que os dados mantidos sobre um indivíduo sejam relevantes para a finalidade para a qual ele é mantido. Portanto, é improvável que a Lei permita detalhes de pacientes sobre compras na loja do hospital (por exemplo) sejam mantidas em seu prontuário.
+* Garantir que os dados mantidos sobre um indivíduo sejam relevantes para a finalidade para a qual ele é mantido. Portanto, é improvável que a lei permita detalhes de pacientes sobre compras na loja do hospital (por exemplo) sejam mantidas em seu prontuário.
 
 * Fornecer meios para que as pessoas contestem e corrijam informações no sistema que o titular dos dados não pode demonstrar estar correto.
 
@@ -89,7 +89,11 @@ Você foi contratado para desenvolver o sistema Mentcare para uma rede de clíni
 
 *  No caso de qualquer requisito do sistema estiver em conflito com a Lei de Proteção de Dados, o conflito deve ser resolvido para que as disposições legais sejam mantidas.
 
-**Tarefa:** Reúna-se com o seu grupo e reflita sobre o contexto do sistema proposto. Em seguida, identifique os principais requisitos não-funcionais relacionados à segurança e privacidade dos dados no contexto do sistema _Mentcare_.
+**Tarefa:** Reúna-se com o seu grupo e reflita sobre o contexto do sistema proposto. Em seguida, identifique os principais requisitos não-funcionais relacionados à segurança e privacidade dos dados no contexto do sistema _Mentcare_. Ao final da aula, vamos discutir os requisitos levantados por cada grupo. 
+
+# Entrega
+
+Ao final da aula, cada grupo deve mostrar os requisitos levantados, assim como a justificativa para cada um deles. Vamos comparar os resultados e discutir o possível impacto destes requisitos no projeto do sistema Mentcare.
 
 ## Referências
 
