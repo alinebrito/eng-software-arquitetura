@@ -8,4 +8,6 @@ Repositório para atividades práticas e teóricas da disciplina Arquitetura de 
 
 [LAB03](labs/lab-revisao-conceitos-arquitetura.md): Revisão de conceitos sobre arquitetura de software
 
+[LAB04](labs/lab-sistemas-pervasivos-home-systems.md): Sistemas distribuídos pervasivos para residências
+
 
