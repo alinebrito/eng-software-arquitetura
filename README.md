@@ -10,4 +10,8 @@ Repositório para atividades práticas e teóricas da disciplina Arquitetura de 
 
 [LAB04](labs/lab-sistemas-pervasivos-home-systems.md): Sistemas distribuídos pervasivos para residências
 
+[LAB05](labs/lab-anti-padroes.md): Anti-padrões Arquiteturais 
+
+[LAB06]: Discutindo a arquitetura do Stack Overflow
+
 

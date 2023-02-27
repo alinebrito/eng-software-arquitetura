@@ -16,6 +16,7 @@ Sistemas montados ao redor de redes domésticas são um tipo de sistema pervasiv
 
 **Tarefa:** Imagine que você está projetando um sistema deste tipo para a sua casa. Quais são os requitos que você considera importantes para desenvolver este sistema de automação residencial? Quais seriam os componentes principais da arquitetura do sistema?
 
+**Considere que você possui um orçamento sem limites para projetar a residência!**
 
 ## Referências
 
