@@ -12,6 +12,10 @@ Repositório para atividades práticas e teóricas da disciplina Arquitetura de 
 
 [LAB05](labs/lab-anti-padroes.md): Anti-padrões Arquiteturais 
 
-[LAB06]: Discutindo a arquitetura do Stack Overflow
+[LAB06](labs/lab-seminarios.md): Tópicos e Pesquisas Recentes em Arquitetura de Software
+
+[LAB]: Discutindo a arquitetura do Stack Overflow
+
+[LAB]: C4 Model
 
 
