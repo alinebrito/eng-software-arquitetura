@@ -6,13 +6,15 @@ Repositório para atividades práticas e teóricas da disciplina Arquitetura de 
 
 [LAB02](labs/lab-pokemon-go-arquitetura.md): Desafios para desenvolvimento do Pokémon Go
 
-[LAB03](labs/lab-revisao-conceitos-arquitetura.md): Revisão de conceitos sobre arquitetura de software
+[LAB03](labs/lab-revisao-conceitos-iso-9126.md):  Revisão de conceitos sobre Norma ISO-9126
 
-[LAB04](labs/lab-sistemas-pervasivos-home-systems.md): Sistemas distribuídos pervasivos para residências
+[LAB04](labs/lab-revisao-conceitos-arquitetura.md): Revisão de conceitos sobre arquitetura de software
 
-[LAB05](labs/lab-anti-padroes.md): Anti-padrões Arquiteturais 
+[LAB05](labs/lab-sistemas-pervasivos-home-systems.md): Sistemas distribuídos pervasivos para residências
 
-[LAB06](labs/lab-seminarios.md): Tópicos e Pesquisas Recentes em Arquitetura de Software
+[LAB06](labs/lab-anti-padroes.md): Anti-padrões Arquiteturais 
+
+[LAB07](labs/lab-seminarios.md): Tópicos e Pesquisas Recentes em Arquitetura de Software
 
 [LAB]: Discutindo a arquitetura do Stack Overflow
 
