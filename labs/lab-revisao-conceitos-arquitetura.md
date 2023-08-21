@@ -16,14 +16,19 @@ Descreva as visões mencionadas anteriormente.
 
 ## Descrição Detalhada da Arquitetura
 
-Sommerville discute sobre os desafios de elaborar uma documentação detalhada de projeto, principalmente em metodologias ágeis. Entretanto, o autor reforça a importância desta análise em alguns cenários. Descreva brevemente a opinião do autor, envolvendo sistemas a necessidade de uma análise detalhada de projeto para desenvolvimento de sistemas triviais e para sistemas críticos.
+Sommerville discute sobre os desafios de elaborar uma documentação detalhada de projeto, principalmente no desenvolvimento ágil. Entretanto, o autor reforça a importância desta análise em alguns cenários:
 
+> Os usuários de métodos ágeis alegam que, na maior parte do tempo, a documentação detalhada de projeto
+não é usada. E, portanto, desenvolvê-la seria um desperdício de tempo e dinheiro. Pessoalmente, eu concordo
+com essa opinião e penso que, na maioria dos sistemas, não vale a pena desenvolver uma descrição de arqui-
+tetura detalhada a partir dessas quatro visões. Você deve desenvolver visões úteis para a comunicação, e não se
+preocupar se sua documentação de arquitetura está completa ou não. No entanto, a exceção é quando você está
+desenvolvendo sistemas críticos, quando você precisa fazer uma análise detalhada da confiança do sistema. Pode
+ser necessário convencer os reguladores externos de que o sistema está de acordo com suas regras, e, então, a
+documentação completa da arquitetura pode ser necessária.
 
-## Definição de Sistemas Distribuídos
+Você concorda com a observação do autor? Pense em um cenário em que a arquitetura detalhada do projeto pode ser útil.
 
-Discuta a afirmação abaixo, mencionada por Tanenbaum em seu livro:
-
-> _"Um sistema distribuído é um conjunto de computadores independentes que se apresenta a seus usuários como um sistema único e coerente"_ - Tanenbaum
 
 
 ## Referências
