@@ -14,17 +14,17 @@ Escolha um artigo ou ferramenta que visa solucionar ou compreender um problema r
 
 * [Journal of Software: Evolution and Process (JSEP)](https://onlinelibrary.wiley.com/journal/20477481)
 
-* International Conference on Software Analysis, Evolution and Reengineering (SANER): [2023](https://saner2023.must.edu.mo/), [2022](https://saner2022.uom.gr/), [edições anteriores](https://ieeexplore.ieee.org/xpl/conhome/1831544/all-proceedings).
+* [International Conference on Software Analysis, Evolution and Reengineering (SANER)](https://ieeexplore.ieee.org/xpl/conhome/1831544/all-proceedings)
 
-* International Conference on Software Engineering (ICSE): [2023](https://conf.researchr.org/home/icse-2023), [2022](https://conf.researchr.org/home/icse-2022), [edições anteriores](https://ieeexplore.ieee.org/xpl/conhome/1000691/all-proceedings).
+* [International Conference on Software Engineering (ICSE)](https://ieeexplore.ieee.org/xpl/conhome/1000691/all-proceedings)
 
-* Symposium on the Foundations of Software Engineering (FSE): [2022](https://2022.esec-fse.org/), [2023](https://conf.researchr.org/home/fse-2023), [edições anteriores](https://dl.acm.org/conference/fse).
+* [Symposium on the Foundations of Software Engineering (FSE)](https://dl.acm.org/conference/fse)
 
-* Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS): [2022](https://cbsoft2022.facom.ufu.br/artigos.php?evento=sbcars), [edições anteriores](https://sol.sbc.org.br/index.php/sbcars/issue/archive).
+* [Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)](https://sol.sbc.org.br/index.php/sbcars/issue/archive)
 
-* Simpósio Brasileiro de Engenharia de Software (SBES): [2023](https://cbsoft2023.ufms.br/sbes/pesquisa), [2022](https://cbsoft2022.facom.ufu.br/artigos.php?evento=sbes-pesquisa), [edições anteriores](https://sol.sbc.org.br/index.php/sbes/issue/archive).
+* [Simpósio Brasileiro de Engenharia de Software (SBES)](https://sol.sbc.org.br/index.php/sbes/issue/archive)
 
-O grupo pode escolher também um [Trabalho de Conclusão de Curso (TCC)](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue).
+O grupo pode escolher também um [Trabalho de Conclusão de Curso (TCC)](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue)
 
 Busque por pesquisas recentes envolvendo **temas da área de Arquitetura de Software**. 
 
