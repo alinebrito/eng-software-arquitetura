@@ -4,7 +4,7 @@ Neste laboratório prático vamos discutir artigos e tópicos relevantes da áre
 
 Esta atividade deve ser realizada em grupos
 
-## Passo 1: Escolha do Tema
+## Passo 1: Escolha do tema
 
 Escolha um artigo ou ferramenta que visa solucionar ou compreender um problema relacionado com os tópicos estudados na disciplina, como por exemplo, modelagem de software, arquitetura, boas práticas, etc. Para tanto, considere a seguinte lista:
 
@@ -24,7 +24,7 @@ Escolha um artigo ou ferramenta que visa solucionar ou compreender um problema r
 
 * Simpósio Brasileiro de Engenharia de Software (SBES): [2023](https://cbsoft2023.ufms.br/sbes/pesquisa), [2022](https://cbsoft2022.facom.ufu.br/artigos.php?evento=sbes-pesquisa), [edições anteriores](https://sol.sbc.org.br/index.php/sbes/issue/archive).
 
-O grupo pode escolher também um [Trabalho de Conclusão do Curso (TCC)](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue).
+O grupo pode escolher também um [Trabalho de Conclusão de Curso (TCC)](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue).
 
 Busque por pesquisas recentes envolvendo **temas da área de Arquitetura de Software**. 
 
@@ -41,7 +41,7 @@ Busque por pesquisas recentes envolvendo **temas da área de Arquitetura de Soft
 
 Após escolher o seu tema, responda o fórum disponível no Canvas, informando: nome dos integrantes do grupo, título do trabalho, e link para o trabalho. Lembre-se de verificar as respostas anteriores do fórum. **Cada grupo deve escolher um tema distinto**.
 
-## Passo 3: Preparação para Apresentação
+## Passo 3: Preparação para apresentação
 
 Cada grupo deve preparar uma apresentação sobre o tema escolhido (aproximadamente 15 minutos). Não concentre-se em detalhes, o importante é mostrar os objetivos gerais do trabalho e os principais resultados.
 
