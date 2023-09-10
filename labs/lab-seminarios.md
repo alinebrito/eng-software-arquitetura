@@ -22,19 +22,26 @@ Existem trabalhos relevantes e interessantes sendo publicados em diversas confer
 
 * Symposium on the Foundations of Software Engineering (FSE): [2022](https://2022.esec-fse.org/), [2023](https://conf.researchr.org/home/fse-2023), [edições anteriores](https://dl.acm.org/conference/fse).
 
-* Congresso Brasileiro de Software: Teoria e Prática (CBSoft):
+* Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS): [2022](https://cbsoft2022.facom.ufu.br/artigos.php?evento=sbcars), [edições anteriores](https://sol.sbc.org.br/index.php/sbcars/issue/archive).
 
-  * Simpósio Brasileiro de Engenharia de Software (SBES): [2023](https://cbsoft2023.ufms.br/sbes/pesquisa), [2022](https://cbsoft2022.facom.ufu.br/artigos.php?evento=sbes-pesquisa), [edições anteriores](https://sol.sbc.org.br/index.php/sbes/issue/archive).
+O grupo pode escolher também um [Trabalho de Conclusão do Curso (TCC)](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue).
 
-  * Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS): [2022](https://cbsoft2022.facom.ufu.br/artigos.php?evento=sbcars), [edições anteriores](https://sol.sbc.org.br/index.php/sbcars/issue/archive).
+Busque por pesquisas recentes envolvendo **temas da área de Arquitetura de Software**. 
 
-  * Workshop on Software Visualization, Evolution and Maintenance (VEM): [2022](https://vemworkshop.github.io/vem2022/), [2021](https://vemworkshop.github.io/vem2021/).
+### Sugestões de artigos:
 
-Busque por pesquisas recentes envolvendo temas do seu interesse. 
+* [The pains and gains of microservices: A Systematic grey literature review](https://doi.org/10.1016/j.jss.2018.09.082)
+* [All one needs to know about fog computing and related edge computing paradigms: A complete survey](https://doi.org/10.1016/j.sysarc.2019.02.009)
+* [An IoT-Aware Architecture for Smart Healthcare Systems](https://doi.org/10.1109/JIOT.2015.2417684)
+* [Analysis of Microservice Evolution Using Cohesion Metrics](https://sol.sbc.org.br/index.php/sbcars/article/view/22011)
+* [Microservice decomposition and evaluation using dependency graph and silhouette coefficient](https://sol.sbc.org.br/index.php/sbcars/article/view/18874)
+* [Are we speaking the industry language? The practice and literature of modernizing legacy systems with microservices](https://sol.sbc.org.br/index.php/sbcars/article/view/18875)
+  
+## Passo 2: Compartilhar artigo no fórum
 
-**Entrega:** Após escolher o seu tema, responda o fórum disponível no Canvas, informando: nome dos integrantes do grupo, título do trabalho, e link para o trabalho. Lembre-se de verificar as respostas anteriores do fórum. **Cada grupo deve escolher um tema distinto**.
+Após escolher o seu tema, responda o fórum disponível no Canvas, informando: nome dos integrantes do grupo, título do trabalho, e link para o trabalho. Lembre-se de verificar as respostas anteriores do fórum. **Cada grupo deve escolher um tema distinto**.
 
-## Passo 2: Preparação para Apresentação
+## Passo 3: Preparação para Apresentação
 
 Cada grupo deve preparar uma apresentação sobre o tema escolhido (aproximadamente 15 minutos). Não concentre-se em detalhes, o importante é mostrar os objetivos gerais do trabalho e os principais resultados.
 
