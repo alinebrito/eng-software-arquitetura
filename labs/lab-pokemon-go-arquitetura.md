@@ -6,10 +6,15 @@ Pokémon GO é um jogo popular, que obtêve um [lucro de milhões](https://ge.gl
 O projeto chamou a atenção de milhares de pessoas ao redor do mundo, [recebendo importantes premiações](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=pt_BR&gl=US).
 
 
-Nesta atividade vamos pensar nos desafios enfrentados pelos desenvolvedores deste aplicativo. Reúna-se com o seu grupo e reflita sobre os principais requisitos necessários para suprir a demanda deste projeto. Caso você não conheça o jogo, você pode instalar ou assistir vídeos de demonstração, como por exemplo: [Pokémon GO - Get Up and Go!](https://youtu.be/SWtDeeXtMZM)
+## Tarefas
 
+* Nesta atividade vamos pensar nos desafios enfrentados pelos desenvolvedores deste aplicativo. Reflita sobre os principais requisitos necessários para suprir a demanda deste projeto. Caso você não conheça o jogo, você pode instalar ou assistir vídeos de demonstração, como por exemplo: [Pokémon GO - Get Up and Go!](https://youtu.be/SWtDeeXtMZM)
+  
+* Cite um jogo ou aplicação que enfrentou desafios semelhates em relação aos requisitos do projeto.
 
-Ao final da aula vamos discutir os desafios enfrentados pelos desenvolvedores do projeto.
+Lembre-se de trazer o seu depoimento para a próxima aula e **responder o fórum no Canvas**!
+
+Na próxima aula vamos discutir os desafios enfrentados pelos desenvolvedores do projeto.
 
 
 ## Referências
