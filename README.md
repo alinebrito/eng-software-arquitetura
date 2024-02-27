@@ -10,11 +10,13 @@ Repositório para atividades práticas e teóricas da disciplina Arquitetura de 
 
 [LAB04](labs/lab-revisao-conceitos-arquitetura.md): Revisão de conceitos sobre arquitetura de software
 
-[LAB05](labs/lab-sistemas-pervasivos-home-systems.md): Sistemas distribuídos pervasivos para residências
+[LAB04](labs/lab-revisao-conceitos-sd.md): Revisão de conceitos sobre sobre transparência em sistemas distribuídos
 
-[LAB06](labs/lab-anti-padroes.md): Anti-padrões Arquiteturais 
+[LAB06](labs/lab-sistemas-pervasivos-home-systems.md): Sistemas distribuídos pervasivos para residências
 
-[LAB07](labs/lab-seminarios.md): Tópicos e Pesquisas Recentes em Arquitetura de Software
+[LAB07](labs/lab-anti-padroes.md): Anti-padrões Arquiteturais 
+
+[LAB08](labs/lab-seminarios.md): Tópicos e Pesquisas Recentes em Arquitetura de Software
 
 [LAB]: Discutindo a arquitetura do Stack Overflow
 
