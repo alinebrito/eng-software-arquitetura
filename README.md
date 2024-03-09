@@ -14,12 +14,10 @@ Repositório para atividades práticas e teóricas da disciplina Arquitetura de 
 
 [LAB06](labs/lab-sistemas-pervasivos-home-systems.md): Sistemas distribuídos pervasivos para residências
 
-[LAB07](labs/lab-anti-padroes.md): Anti-padrões Arquiteturais 
+[LAB](labs/lab-padroes.md): Padrões Arquiteturais
 
-[LAB08](labs/lab-seminarios.md): Tópicos e Pesquisas Recentes em Arquitetura de Software
+[LAB](labs/lab-mvc-jpa.md): MVC & JPA
 
-[LAB]: Discutindo a arquitetura do Stack Overflow
 
-[LAB]: C4 Model
 
 
