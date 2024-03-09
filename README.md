@@ -16,7 +16,7 @@ Repositório para atividades práticas e teóricas da disciplina Arquitetura de 
 
 [LAB](labs/lab-padroes.md): Padrões Arquiteturais
 
-[LAB](labs/lab-mvc-jpa.md): MVC & JPA
+[LAB](labs/lab-mvc-jpa.md): MVC & SPA
 
 
 
