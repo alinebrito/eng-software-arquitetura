@@ -41,14 +41,14 @@ Busque por pesquisas recentes envolvendo **temas da área de Arquitetura de Soft
 
 Após escolher o seu tema, responda o fórum disponível no Canvas, informando: nome dos integrantes do grupo, título do trabalho, e link para o trabalho. Lembre-se de verificar as respostas anteriores do fórum. **Cada grupo deve escolher um tema distinto**.
 
-## Passo 3: Elaboração do resumo
-
-Faça um resumo do artigo (entre 1 e 2 páginas), detalhando a metodologia, questões de pesquisa, resultados, e discussões. Descreva também a opinião do grupo sobre o trabalho e como o tema está relacionado com os tópicos discutidos na disciplinas.
-
-Os resumos serão compartilhados posteriormente com a turma.
-
-## Passo 4: Preparação para apresentação
+## Passo 3: Preparação para apresentação
 
 Cada grupo deve preparar uma apresentação sobre o tema escolhido (aproximadamente 15 minutos). Não concentre-se em detalhes, o importante é mostrar os objetivos gerais do trabalho e os principais resultados.
 
 Nas próximas aulas, os trabalhos serão apresentados e discutidos.
+
+## Passo 4: Elaboração do resumo
+
+Para cada apresentação realizada durante os seminários, o grupo deve elaborar um resumo:
+* Detalhando a metodologia e os principais resultados.
+* A opinião do grupo sobre o trabalho e como o tema está relacionado com os tópicos discutidos na disciplinas.
