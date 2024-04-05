@@ -49,6 +49,6 @@ Nas próximas aulas, os trabalhos serão apresentados e discutidos.
 
 ## Passo 4: Elaboração do resumo
 
-Para cada apresentação realizada durante os seminários, o grupo deve elaborar um resumo:
-* Detalhando a metodologia e os principais resultados.
-* A opinião do grupo sobre o trabalho e como o tema está relacionado com os tópicos discutidos na disciplinas.
+Faça um resumo do artigo (entre 1 e 2 páginas), detalhando a metodologia, questões de pesquisa, resultados, e discussões. Descreva também a opinião do grupo sobre o trabalho e como o tema está relacionado com os tópicos discutidos na disciplinas.
+
+Os resumos serão compartilhados posteriormente com a turma.
